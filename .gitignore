@@ -1,0 +1,49 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as not to include big libraries
+#  or multiple copies of your own program.  They are also deleted if
+#  --clean is specified.
+build/
+
+# pycache files
+__pycache__/
+
+# virtualenv
+venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE specific files
+.idea/
+.vscode/
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
